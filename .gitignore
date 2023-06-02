@@ -1,0 +1,4 @@
+*.pyc
+build
+scrapy_crawlbase_middleware.egg-info
+dist
