@@ -12,7 +12,7 @@ readme = open('README.md').read()
 setup(
     name = 'scrapy-crawlbase-middleware',
     license = 'Apache-2.0',
-    version = '1.1.0',
+    version = '1.0.0',
     description = 'Scrapy Crawlbase Proxy Middleware: Crawlbase interfacing middleware for Scrapy',
     long_description = readme,
     long_description_content_type = 'text/markdown',
